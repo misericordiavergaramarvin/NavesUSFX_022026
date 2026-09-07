@@ -1,0 +1,17 @@
+C:\Users\MARVIN\Documents\Unreal Projects\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\Definitions.NavesUSFX_022026.h
+C:\Users\MARVIN\Documents\Unreal Projects\NavesUSFX_022026\Source\NavesUSFX_022026\NavesUSFX_022026GameMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\MARVIN\Documents\Unreal Projects\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Inc\NavesUSFX_022026\NavesUSFX_022026GameMode.generated.h
+C:\Users\MARVIN\Documents\Unreal Projects\NavesUSFX_022026\Source\NavesUSFX_022026\NavesUSFX_022026Pawn.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\MARVIN\Documents\Unreal Projects\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Inc\NavesUSFX_022026\NavesUSFX_022026Pawn.generated.h
+C:\Users\MARVIN\Documents\Unreal Projects\NavesUSFX_022026\Source\NavesUSFX_022026\Enemigo.h
+C:\Users\MARVIN\Documents\Unreal Projects\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Inc\NavesUSFX_022026\Enemigo.generated.h

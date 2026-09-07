@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-NavesUSFX_022026-2001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\MARVIN\Documents\Unreal Projects\NavesUSFX_022026\Intermediate\Build\Win64\NavesUSFX_022026Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\MARVIN\Documents\Unreal Projects\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\Enemigo.cpp.obj"
+"C:\Users\MARVIN\Documents\Unreal Projects\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\NavesUSFX_022026.cpp.obj"
+"C:\Users\MARVIN\Documents\Unreal Projects\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\NavesUSFX_022026GameMode.cpp.obj"
+"C:\Users\MARVIN\Documents\Unreal Projects\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\NavesUSFX_022026Pawn.cpp.obj"
+"C:\Users\MARVIN\Documents\Unreal Projects\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\NavesUSFX_022026Projectile.cpp.obj"
+"C:\Users\MARVIN\Documents\Unreal Projects\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\Enemigo.gen.cpp.obj"
+"C:\Users\MARVIN\Documents\Unreal Projects\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\NavesUSFX_022026.init.gen.cpp.obj"
+"C:\Users\MARVIN\Documents\Unreal Projects\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\NavesUSFX_022026GameMode.gen.cpp.obj"
+"C:\Users\MARVIN\Documents\Unreal Projects\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\NavesUSFX_022026Pawn.gen.cpp.obj"
+"C:\Users\MARVIN\Documents\Unreal Projects\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\NavesUSFX_022026Projectile.gen.cpp.obj"
+"C:\Users\MARVIN\Documents\Unreal Projects\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\Default.rc2.res"
+/OUT:"C:\Users\MARVIN\Documents\Unreal Projects\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\UE4Editor-NavesUSFX_022026-2001.lib"

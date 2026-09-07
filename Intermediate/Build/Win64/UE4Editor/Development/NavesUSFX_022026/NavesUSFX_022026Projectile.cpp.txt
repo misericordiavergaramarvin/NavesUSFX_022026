@@ -1,0 +1,7 @@
+C:\Users\MARVIN\Documents\Unreal Projects\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\Definitions.NavesUSFX_022026.h
+C:\Users\MARVIN\Documents\Unreal Projects\NavesUSFX_022026\Source\NavesUSFX_022026\NavesUSFX_022026Projectile.h
+C:\Users\MARVIN\Documents\Unreal Projects\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Inc\NavesUSFX_022026\NavesUSFX_022026Projectile.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "NavesUSFX_022026",
+			"Path": "C:\\Users\\MARVIN\\Documents\\Unreal Projects\\NavesUSFX_022026\\Source\\NavesUSFX_022026.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NavesUSFX_022026Editor",
+			"Path": "C:\\Users\\MARVIN\\Documents\\Unreal Projects\\NavesUSFX_022026\\Source\\NavesUSFX_022026Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

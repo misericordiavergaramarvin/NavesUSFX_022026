@@ -1,0 +1,2 @@
+C:\Users\MARVIN\Documents\Unreal Projects\NavesUSFX_022026\Intermediate\Build\Win64\UE4Editor\Development\NavesUSFX_022026\Definitions.NavesUSFX_022026.h
+C:\Users\MARVIN\Documents\Unreal Projects\NavesUSFX_022026\Source\NavesUSFX_022026\NavesUSFX_022026.h
